@@ -1,5 +1,5 @@
 # LaPaw Performance Dashboard
 
-Interactive performance dashboard for January-July 2026.
+Interactive performance dashboard for January-August 2026.
 
 The public build anonymizes customer accounts, order IDs, and districts.
